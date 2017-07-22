@@ -1,3 +1,4 @@
-# Lista Linear
+# Listas
 
-Implementação de lista com vetor.
+Implementação de lista com vetor e ponteiros
+
